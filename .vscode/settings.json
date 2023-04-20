@@ -1,0 +1,23 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "workbench.editor.wrapTabs": true,
+    "editor.tabSize": 4,
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.bracketPairColorization.enabled": false,
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "stylelint.enable": true,
+    "git.autofetch": true,
+    "[json]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
